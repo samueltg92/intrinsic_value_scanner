@@ -2,6 +2,11 @@ from yahoofinancials import YahooFinancials
 import yahoo_fin.stock_info as si
 import pandas as pd
 
+'''
+- buscar refactorizar el código para hacerlo más eficiente
+- buscar añadir otros indices europeos
+- convertir el "earnings_dict" en un dataframe o lista
+'''
 
 # SP500
 def list_wikipedia_sp500() -> pd.DataFrame:
