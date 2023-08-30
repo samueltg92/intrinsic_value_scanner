@@ -6,6 +6,10 @@ import pandas as pd
 - buscar añadir otros indices europeos
 - añadir método de elección de empresas basados en ESG scores
 - convertir el "earnings_dict" en un dataframe o lista
+- añadir condicionales para preguntarle primero al usuario si quiere ver 
+    el DF con todas las acciones por sector, o si quiere ver el DF con las 
+    acciones de un sector en concreto, o si quiere ver el DF con las acciones 
+    de un sector en concreto ordenadas por el ratio P/E o EPS
 '''
 
 class StockAnalyzer:
