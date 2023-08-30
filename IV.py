@@ -5,6 +5,7 @@ import pandas as pd
 '''
 - buscar refactorizar el código para hacerlo más eficiente
 - buscar añadir otros indices europeos
+- añadir método de elección de empresas basados en ESG scores
 - convertir el "earnings_dict" en un dataframe o lista
 '''
 
